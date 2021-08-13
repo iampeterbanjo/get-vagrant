@@ -1,5 +1,12 @@
-# get-vagrant
+# Get vagrant
+
 Linux based development on non-linux machines
+
+## Requirements
+
+- [Vagrant](https://www.vagrantup.com/)
+- [Virtual box](https://www.virtualbox.org/)
+- Install with Homebrew by running `brew cask install virtualbox vagrant`
 
 ## Use case
 
